@@ -2,7 +2,7 @@
 
 
 # Tampilan Phispon3 di Windows
-![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_1.png)
+![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_0.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_2.png)
 
 
