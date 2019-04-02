@@ -3,6 +3,7 @@
 
 # Tampilan Phispon3 di Windows
 ![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_1.png)
+![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_2.png)
 
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
