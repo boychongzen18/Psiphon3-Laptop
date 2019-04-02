@@ -1,7 +1,7 @@
 # Inject All Operator  Via PC & Phispon3 
 
 
-# Tampilan Phispon3 di Windows
+# Tampilan Phispon3 di Windows Inject Opok im3 Ooredoo
 ![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_0.png)
 ![be](https://raw.githubusercontent.com/boychongzen18/InjectPC/master/Screenshot_2.png)
 
